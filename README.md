@@ -1,16 +1,21 @@
-### Hi there 👋
+<!-- Stats Card -->
+<h2 align="center">
+  <a>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Gtadictos21&repo=github-readme-stats&count_private=true&include_all_commits=true&show_icons=true&theme=radical&card_width=750)]">
+  </a>
+  
+<!-- Top Languages Card -->
+  <a>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gtadictos21&repo=github-readme-stats&langs_count=5&show_icons=true&theme=radical&layout=compact&card_width=445)]">
+  </a>
 
-<!--
-**SirOswaldo/SirOswaldo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- "Conectate conmigo" section -->
+<h3 align="center">
+  Conectate conmigo:
+  <a href="https://gtadictos21.com" alt="Gtadictos21 | Website">
+      <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" width="22px" align="center">
+  </a>
+  <a href="mailto:contacto@gtadictos21.com" alt="Contacto | Email">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@5.8.1/icons/gmail.svg" width="22px" align="center">
+  </a>
+</h3>
